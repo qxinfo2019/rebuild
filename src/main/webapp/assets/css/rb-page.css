@@ -29,6 +29,9 @@ body {
     box-shadow: 0 3px .3077rem rgba(0, 0, 0, .1);
     border-width: 0;
     border-radius: 0;
+    max-height: 521px;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 
 .dropdown-menu.primary>.dropdown-item:hover,
